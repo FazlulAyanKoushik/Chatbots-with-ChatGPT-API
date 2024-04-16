@@ -1,2 +1,1 @@
-# Base-Repo
-This is a python projects base repository
+# A chatbot with chatGpt and Telegram
